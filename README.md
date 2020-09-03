@@ -13,9 +13,8 @@ A python module that allows python developers to interact with Command Runner AP
 
 ## Installation/Configuration
 
-This is as a template, project owner to update
+Clone the repository to your local machine.  
 
-Add any steps needed to install the project so that someone can reproduce the project
 
 ```
 pip install -r requirements.txt
