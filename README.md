@@ -42,10 +42,6 @@ An example how to use the DNACenter.py class can be found in main.py
 
 
 
-# Screenshots
-
-![/IMAGES/0image.png](/IMAGES/0image.png)
-
 ### LICENSE
 
 Provided under Cisco Sample Code License, for details see [LICENSE](LICENSE.md)
