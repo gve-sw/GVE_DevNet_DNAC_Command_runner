@@ -4,10 +4,6 @@ A python module that allows python developers to interact with Command Runner AP
 
 
 
-
-| :exclamation:  External repository notice   |
-|:---------------------------|
-| This repository is now mirrored at "PLEASE UPDATE HERE - add External repo URL after code review is completed"  Please inform a https://github.com/gve-sw/ organization admin of any changes to mirror them to the external repo |
 ## Contacts
 * Charles Llewellyn
 
